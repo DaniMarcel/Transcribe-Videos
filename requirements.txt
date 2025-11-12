@@ -1,0 +1,4 @@
+deepgram-sdk==3.*
+python-dotenv>=1.0.1
+fpdf2>=2.7.9
+customtkinter>=5.2.2
